@@ -15,9 +15,9 @@
   <header class="header">
     <div class="header__inner">
       <div class="header-utilities">
-        <a class="header__logo" href="/">
-          Mogitate
-        </a>
+      
+          
+        
         <nav>
           <ul class="header-nav">
             @if (Auth::check())
